@@ -9,3 +9,14 @@ move 5.2
 
 program used to measure the images to check if the lenght is correct 
 https://imagemeasurement.online/image/view
+
+// 
+thre are some like opnscadjs
+thinking about makeing/forking a scad previewr that allow you to move the preview ttrought the keyboard
+
+
+// make sure you understand what is this
+https://github.com/FreeCAD/FreeCAD
+
+// impressive hexapod
+https://www.reddit.com/r/arduino/comments/11b0401/hexapod_update_5_remote_control_crab_mode_and_more/

@@ -1,0 +1,1 @@
+mv ~/Downlaods/ergodone.hex .

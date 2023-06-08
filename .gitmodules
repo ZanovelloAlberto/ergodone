@@ -1,3 +1,7 @@
 [submodule "ergodone-3d-printing-case"]
 	path = ergodone-3d-printing-case
 	url = https://github.com/klesh/ergodone-3d-printing-case.git
+
+[submodule "tkg-toolkit"]
+	path = dep/tkg-toolkit
+	url = https://github.com/kairyu/tkg-toolkit.git

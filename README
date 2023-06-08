@@ -53,3 +53,8 @@ https://edutechwiki.unige.ch/en/OpenScad_beginners_tutorial#hull
 
 - tentativo print 3d.
 the best things is probably do it in wood o compensatodo da tagliere con traforo, e fare solo la base e legarla con del filo cosi risulta anche meno ingombrante
+
+
++++++++++++++++++=PS+++++++++++++++
+to flash ergodone just 
+`reflash.sh ~/git/ergodone.hex`
